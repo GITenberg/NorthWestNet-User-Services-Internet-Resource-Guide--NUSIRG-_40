@@ -1,0 +1,23 @@
+_repo: NorthWestNet-User-Services-Internet-Resource-Guide--NUSIRG-_40
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kochmer, Jonathan
+    gutenberg_agent_id: '33'
+    url: http://www.gutenberg.org/2009/agents/33
+description: PostScript file
+gutenberg_issued: '1992-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40'
+language: en
+publication_note: '1992'
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Internet'
+- !lcc 'TK'
+- GITenberg
+title: NorthWestNet User Services Internet Resource Guide (NUSIRG)
+url: http://www.gutenberg.org/ebooks/40
