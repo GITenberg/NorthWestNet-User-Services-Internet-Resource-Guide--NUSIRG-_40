@@ -1,11 +1,16 @@
 _repo: NorthWestNet-User-Services-Internet-Resource-Guide--NUSIRG-_40
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kochmer, Jonathan
     gutenberg_agent_id: '33'
     url: http://www.gutenberg.org/2009/agents/33
 description: PostScript file
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40#NorthWestNet-User-Services-Internet-Resource-Guide--NUSIRG-
 gutenberg_issued: '1992-09-01'
 gutenberg_type: Text
 identifiers:
